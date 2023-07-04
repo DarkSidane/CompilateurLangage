@@ -1,0 +1,44 @@
+// uniteLexicale.h
+#ifndef HEADER_FILE
+#define HEADER_FILE
+#define TOKEN_IF 256
+#define TOKEN_THEN 257
+#define TOKEN_ELSE 258
+#define TOKEN_AND 259
+#define TOKEN_OR 260
+#define TOKEN_END 261
+#define TOKEN_WHILE 262
+#define TOKEN_DO 263
+#define TOKEN_NOT 264
+
+#define TOKEN_ASS 265
+#define TOKEN_SKIP 266
+#define TOKEN_TRUE 267
+#define TOKEN_FALSE 268
+
+#define TOKEN_PLUS 269
+#define TOKEN_MINUS 270
+#define TOKEN_MULT 271
+#define TOKEN_DIV 272
+#define TOKEN_MOD 273
+#define TOKEN_INF 274
+#define TOKEN_INFE 275
+#define TOKEN_SUPE 276
+#define TOKEN_SUP 277
+#define TOKEN_EQ 278
+#define TOKEN_NEQ 279
+#define TOKEN_COMP 280
+
+
+#define TOKEN_LACCOL 281
+#define TOKEN_RACCOL 282
+#define TOKEN_COMMA 283
+#define TOKEN_IDENTIFIER 284
+#define TOKEN_LIST 285
+
+#define TOKEN_INTEGER 286
+#define TOKEN_BOOL 287
+#define TOKEN_LPAREN 288
+#define TOKEN_RPAREN 289
+
+#endif
